@@ -1,0 +1,7 @@
+{
+  "name": "Grocery Splitter",
+  "description": "Import CSV grocery transactions or add items manually to split expenses fairly among friends with custom item-by-item splitting, shares, percentages, and settlement calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
